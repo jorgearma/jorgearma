@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jorge Armando Escobar</h1>
 <h3 align="center">Passionate about development and cybersecurity, seeking to deepen my knowledge in computer science to strengthen my professional path in cybersecurity.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgearma&label=Profile%20views&color=0e75b6&style=flat" alt="jorgearma" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jorgearma&label=Profile%20views&color=0e75b6&style=flat" alt="jorgearma" />
+  <a href="https://app.hackthebox.com/jorgearma/1449173">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-52%20machines-green?style=flat" alt="HTB" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning **Azure services, AI, algorithms,data structures and Project Structure.**
+- 🧗‍♂️ Preparing for **OSCP Certification**
+
+-  🌱 Currently focused on penetration testing, privilege escalation, web exploitation, and Active Directory — preparing for the **OSCP** certification.
 
 - 📫 How to reach me **jorgesiemprearmando@gmail.com**
 
