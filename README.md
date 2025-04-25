@@ -10,7 +10,7 @@
 
 - 🧗‍♂️ Preparing for **OSCP Certification**
 
--  🌱 Currently focused on penetration testing, privilege escalation, web exploitation, and Active Directory — preparing for the **OSCP** certification.
+-  🌱 Currently focused on penetration testing, privilege escalation, web exploitation, and Active Directory 
 
 - 📫 How to reach me **jorgesiemprearmando@gmail.com**
 
