@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jorge Armando Escobar</h1>
 
 <h3 align="center">
-Aspiring pentester focused on offensive security, web exploitation, privilege escalation, and Active Directory. Currently preparing for the OSCP certification.
+Junior pentester focused on offensive security, web exploitation, privilege escalation, and Active Directory. Currently preparing for the OSCP certification.
 </h3>
 
 <p align="center">
